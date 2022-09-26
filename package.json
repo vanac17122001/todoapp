@@ -1,7 +1,7 @@
 {
   "name": "todoapp",
   "version": "0.1.0",
-  "homepage": "https://www.vanac17122001.github.io/todoapp",
+  "homepage": "https://www.vanac17122001.github.io/todoapp/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
