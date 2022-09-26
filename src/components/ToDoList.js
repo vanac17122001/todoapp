@@ -63,11 +63,6 @@ export default class TodoList extends Component {
                                                 <FontAwesomeIcon icon="trash"></FontAwesomeIcon>
                                             </span>
                                         </button>
-                                        <button className="btn btn-primary" onClick={() => this.deleteToDo(x)}>
-                                            <span>
-                                                <FontAwesomeIcon icon="trash"></FontAwesomeIcon>
-                                            </span>
-                                        </button>
                                         <button className="btn btn-primary" onClick={() => this.editToDo(x)}>
                                             <span>
                                                 <FontAwesomeIcon icon="edit"></FontAwesomeIcon>
