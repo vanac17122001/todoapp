@@ -58,7 +58,7 @@ export default class TodoList extends Component {
                                         {x.Status}
                                     </td>
                                     <td>
-                                        <button className="btn btn-primary">
+                                        <button className="btn btn-primary" onClick={() => this.deleteToDo(x)}>
                                             <span>
                                                 <FontAwesomeIcon icon="trash"></FontAwesomeIcon>
                                             </span>
